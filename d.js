@@ -1,6 +1,6 @@
 var title = "XSS Defacement";
 var bgcolor = "#000000";
-var image_url = "http://ha.ckers.org/images/stallowned.jpg";
+var image_url = "http://skillfulhacking.github.io/images/stallowned.jpg";
 var text = "This page has been Hacked!";
 var font_color = "#FF0000";
 
